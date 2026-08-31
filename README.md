@@ -1,5 +1,6 @@
 # Awesome-Lightroom-Presets: Kinematische & Düstere Konfigurationsprofile für Lightroom Desktop
 
+
 ---
 
 Als Entwickler, Ingenieure und technische Creators verbringen wir Hunderte von Stunden damit, unsere Continuous-Integration-Pipelines zu optimieren, Code-Mikrobenchmarks durchzuführen und Umgebungen zu automatisieren. Wenn es jedoch um die visuellen Assets unserer Indie-Produkte, Portfolios, Landingpages oder persönlichen Fotografien geht, verfallen wir häufig in einen uneffizienten, manuellen Workflow: Wir passen die Belichtung an, kämpfen mit HSL-Matrizen und feilen Bild für Bild an Tonwertkurven.
